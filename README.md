@@ -1,3 +1,7 @@
-The OpenShift `jbossews` cartridge documentation can be found at:
+This is the implementation of Guess game using Spring MVC and Twitter Bootstrap
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
+1. Java 1.6
+2. Spring MVC
+3. Maven
+4. Twitter Bootstrap
+5. JUnit 
