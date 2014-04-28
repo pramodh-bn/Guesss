@@ -1,0 +1,15 @@
+.guess_color {
+	color: gray;
+}
+
+.guess_lost {
+	background-color: #D9534F
+}
+
+.guess_info {
+	background-color: #2AABD2
+}
+
+.guess_correct {
+	background-color: #5CB85C
+}
