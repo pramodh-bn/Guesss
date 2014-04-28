@@ -5,3 +5,4 @@ This is the implementation of Guess game using Spring MVC and Twitter Bootstrap
 3. Maven
 4. Twitter Bootstrap
 5. JUnit 
+6. JSP
